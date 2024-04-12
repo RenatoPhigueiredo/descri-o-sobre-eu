@@ -1,0 +1,32 @@
+.nm{
+font-size: larger;
+font-family: cursive;
+text-align: center;
+color: aqua;
+}
+.cidade{
+font-size: xx-large;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+color: aqua;
+}
+.bio{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+color: aqua;
+}
+body{
+    background-color: rgb(21, 22, 21);
+}
+#titulo{
+    text-align: center;
+    color: aqua;
+}
+img{
+height: 500px;
+
+}
+.id{
+    color:aqua ;
+    text-align: center;
+}
